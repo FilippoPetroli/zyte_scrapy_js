@@ -1,0 +1,1 @@
+# zyte_scrapy_js
